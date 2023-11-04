@@ -8,7 +8,8 @@
         </button>
     </div>
 </template>
-<script setup lang="ts">
+
+<script setup>
 const options = ref({
     chart: {
         type: "bar",

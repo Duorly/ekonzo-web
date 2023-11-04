@@ -8,6 +8,7 @@
             <MostOrdered />
             <MostTypeOfOrder />
         </aside>
+        
     </div>
 </template>
 
