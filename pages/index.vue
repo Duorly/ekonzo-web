@@ -1,7 +1,7 @@
 <template>
     <div class="min-h-screen flex flex-col items-center justify-center bg-gray-50 relative">
 
-        <div class="flex flex-col bg-white shadow-sm border px-4 sm:px-6 md:px-8 lg:px-10 py-8 rounded-md w-1/3">
+        <div class="flex flex-col bg-white shadow-sm border px-4 sm:px-6 md:px-8 lg:px-10 py-8 rounded-2xl w-1/3">
             <div class="mb-2">
                 <img alt="Logo" class="w-20 mx-auto" src="~/assets/images/logo.png" />
             </div>
