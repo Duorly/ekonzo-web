@@ -1,8 +1,7 @@
 <template>
-    <div class="flex flex-col gap-y-4 items-center py-8 w-24 bg-gray-900">
+    <div class="flex flex-col gap-y-4 items-center py-8  w-24 bg-gray-900">
         <button class="p-2 bg-opacity-20 rounded-xl bg-[#EB966A]">
             <Icon name="bxs-store" size="20"/>
-            <!-- <img class="" alt="Logo" src="~/assets/images/logo.png"> -->
         </button>
 
         <div class="flex flex-col gap-y-4 items-end self-end">
