@@ -8,7 +8,7 @@
             </header>
             <hr class="border-gray-700" />
             <StatsCard />
-            <!-- <OrderReport /> -->
+            <OrderReport />
         </main>
         <!-- <aside class="flex flex-col gap-y-6 pt-6 pr-6 w-96">
             <MostOrdered />
