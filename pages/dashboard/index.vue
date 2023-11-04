@@ -10,10 +10,10 @@
             <StatsCard />
             <OrderReport />
         </main>
-        <!-- <aside class="flex flex-col gap-y-6 pt-6 pr-6 w-96">
+        <aside class="flex flex-col gap-y-6 pt-6 pr-6 w-96">
             <MostOrdered />
             <MostTypeOfOrder />
-        </aside> -->
+        </aside>
     </div>
 </template>
 
