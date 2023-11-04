@@ -1,6 +1,6 @@
 export default defineAppConfig({
     rest: {
-        API_URL: 'https://staging.lalla-api.xyz/api',
-        BASE_URL: 'https://staging.lalla-api.xyz/api',
+        API_URL: 'https://ujb4yrpt88.apidog.io/api',
+        BASE_URL: 'https://ujb4yrpt88.apidog.io/api',
     },
 })

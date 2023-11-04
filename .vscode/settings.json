@@ -1,13 +1,16 @@
 {
     "cSpell.ignoreWords": [
         "EKONZO",
+        "Ekonzo",
         "Nuxt",
         "apexchart",
         "apexcharts",
+        "heroicons",
         "nuxt",
         "nuxtjs",
         "persistedstate",
         "pinia",
+        "playload",
         "xaxis"
     ]
 }

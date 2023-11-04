@@ -28,6 +28,10 @@ export default defineNuxtConfig({
     strict: true
   },
 
+  css: [
+    "~/assets/css/index.css",
+  ],
+
   nitro: {
     prerender: {
       crawlLinks: true

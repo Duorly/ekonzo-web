@@ -1,3 +1,3 @@
-const API_URL: string = 'https://staging.lalla-api.xyz/api'
+const API_URL: string = 'https://ujb4yrpt88.apidog.io/api'
 
 export { API_URL }
