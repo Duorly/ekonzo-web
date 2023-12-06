@@ -10,20 +10,20 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxt/devtools": "latest",
+    "@nuxt/devtools": "^1.0.4",
     "@pinia-plugin-persistedstate/nuxt": "^1.1.2",
     "@pinia/nuxt": "^0.5.1",
     "happy-dom": "^12.10.3",
-    "nuxt": "^3.8.0",
-    "nuxt-icon": "0.5.0",
+    "nuxt": "^3.8.2",
+    "nuxt-icon": "0.6.6",
     "nuxt-vitest": "^0.11.2",
     "vitest": "^0.34.6",
-    "vue": "^3.3.7",
+    "vue": "^3.3.10",
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "@nuxt/ui": "^2.10.0",
-    "apexcharts": "^3.44.0",
+    "@nuxt/ui": "^2.11.0",
+    "apexcharts": "^3.44.2",
     "vue3-apexcharts": "^1.4.4"
   }
 }

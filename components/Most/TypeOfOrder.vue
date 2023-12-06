@@ -3,7 +3,7 @@
         <div class="flex justify-between items-center">
             <h2 class="text-xl font-semibold leading-loose text-white">Most type of order</h2>
             <button class="flex gap-x-2.5 py-3 px-4 rounded-lg border border-gray-700">
-                <Icon size="20" class="text-white" name="bxs:chevron-down" />
+                <Icon size="20" class="text-white" name="bx:bxs-chevron-down" />
                 <span class="text-sm text-white">Today</span>
             </button>
         </div>

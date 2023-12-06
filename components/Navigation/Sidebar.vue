@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col gap-y-4 items-center py-8  w-24 bg-gray-900">
         <button class="p-2 bg-opacity-20 rounded-xl bg-[#EB966A]">
-            <Icon name="bxs-store" size="20"/>
+            <Icon name="bx:bxs-store" size="20"/>
         </button>
 
         <div class="flex flex-col gap-y-4 items-end self-end">
@@ -24,12 +24,12 @@
 const activeMenu = ref("Graph");
 
 const menus = [
-    { name: "Dashboard", icon: "bxs-store" },
-    { name: "Discounts", icon: "bxs-home" },
-    { name: "Graph", icon: "bxs-discount" },
-    { name: "Messages", icon: "bxs-award" },
-    { name: "Notifications", icon: "bxs-notification" },
-    { name: "Settings", icon: "bxs-cog" },
-    { name: "Logout", icon: "bxs-log-out" },
+    { name: "Dashboard", icon: "bx:bxs-store" },
+    { name: "Discounts", icon: "bx:bxs-home" },
+    { name: "Graph", icon: "bx:bxs-discount" },
+    { name: "Messages", icon: "bx:bxs-award" },
+    { name: "Notifications", icon: "bx:bxs-notification" },
+    { name: "Settings", icon: "bx:bxs-cog" },
+    { name: "Logout", icon: "bx:bxs-log-out" },
 ];
 </script>
